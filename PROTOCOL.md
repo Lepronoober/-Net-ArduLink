@@ -38,7 +38,7 @@ Each message frame contains:
 3. Client updates its ID and confirms connection established.
 4. Data messages can now be sent with framing `[ID][SEQ][LEN][DATA][CRC]`.
 5. ACK messages confirm reception of each frame.
-6. `BYE` terminates the session and releases IDs on the server.
+6. `BYE` terminates the session and releases IDs on the network.
 
 ---
 
