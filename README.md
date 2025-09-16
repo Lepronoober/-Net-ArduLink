@@ -47,13 +47,5 @@ Each frame is structured as:
 
 ---
 
-## Roadmap
-- [ ] Improve timing & PWM precision.
-- [ ] Multi-board arbitration.
-- [ ] Implement packet retransmission.
-- [ ] Add higher-level protocols (chat, file transfer).
-
----
-
 ## 📄 License
 MIT License – do whatever you want with proper attribution.
